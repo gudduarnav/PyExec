@@ -1,0 +1,5 @@
+R:\Programs\VisualDotNet\pyexec\pyexec\bin\Debug\pyexec.exe
+R:\Programs\VisualDotNet\pyexec\pyexec\bin\Debug\pyexec.pdb
+R:\Programs\VisualDotNet\pyexec\pyexec\obj\Debug\pyexec.exe
+R:\Programs\VisualDotNet\pyexec\pyexec\obj\Debug\pyexec.pdb
+R:\Programs\VisualDotNet\pyexec\pyexec\obj\Debug\pyexec.csprojResolveAssemblyReference.cache

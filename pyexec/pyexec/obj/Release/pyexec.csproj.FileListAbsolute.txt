@@ -1,0 +1,4 @@
+R:\Programs\VisualDotNet\pyexec\pyexec\bin\Release\pyexec.exe
+R:\Programs\VisualDotNet\pyexec\pyexec\bin\Release\pyexec.pdb
+R:\Programs\VisualDotNet\pyexec\pyexec\obj\Release\pyexec.exe
+R:\Programs\VisualDotNet\pyexec\pyexec\obj\Release\pyexec.pdb
